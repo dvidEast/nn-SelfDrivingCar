@@ -3,9 +3,11 @@ This project showcases the development of a neural network model designed to sim
 
 I invite you to explore the diverse and interdisciplinary components that contribute to the creation of a self-driving car. Each area offers a unique perspective and is critical to the development and ethical deployment of these advanced systems:
 
-### Math/Physics
+### Computer Science (programming)
 
 ### Machine Learning - Neural Network
+
+### Math/Physics
 
 ### Data Processing
 
