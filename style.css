@@ -1,1 +1,10 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  margin: 0;
+  background-color: #ff2800;
+  overflow: hidden;
+  text-align: center;
+}
+
+#myCanvas {
+  background: white;
+}/*# sourceMappingURL=style.css.map */
