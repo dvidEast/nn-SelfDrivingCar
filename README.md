@@ -4,7 +4,7 @@ This project showcases the development of a neural network model designed to sim
 NOTE: this code was based from Dr.Radu Mariescu-Istodor's self-driving car https://github.com/gniziemazity/self-driving-car.git
 
 I invite you to explore the diverse and interdisciplinary components that contribute to the creation of a self-driving car. Each area offers a unique perspective and is critical to the development and ethical deployment of these advanced systems:
-
+ 
 ### Computer Science (programming)
 
 ### Machine Learning - Neural Network
