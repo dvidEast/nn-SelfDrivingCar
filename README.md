@@ -15,4 +15,4 @@ I invite you to explore the diverse and interdisciplinary components that contri
 
 ### Philosophy
 
-NOTE: this project was inspried by Dr.Radu Mariescu-Istodor's self-driving car https://github.com/gniziemazity/self-driving-car.git
+NOTE: this project was inspried by Dr.Radu Mariescu-Istodor's self-driving car https://github.com/gniziemazity/self-driving-car.git but all the code was written by myself
